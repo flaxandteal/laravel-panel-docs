@@ -8,7 +8,7 @@ List of steps we need to follow :
 
 1. [Install laravel](http://laravel.com/docs/5.1#installation)
 
-2. [install laravelPanel](http://laravelpanel.com/docs/master/automatic-installation)
+2. [install laravelPanel](/docs/automatic-installation)
 
 3. Create the files we need
 
@@ -93,7 +93,7 @@ And in phpmyadmin you should see the gallery table with four fields.
 Open the galleryController.php from app\Http\Controllers and you'll see the following lines added inside the 'all' function :
 
 ```php
-        /** Simple code of  filter and grid part , List of all fields here : http://laravelpanel.com/docs/master/crud-fields
+        /** Simple code of  filter and grid part , List of all fields here : /docs/crud-fields
 
 
 			$this->filter = \DataFilter::source(new \App\Category);

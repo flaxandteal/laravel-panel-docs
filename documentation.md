@@ -1,29 +1,29 @@
 - Prologue
-    - [Get started](/docs/master/get-started)
-    - [Update](/docs/master/update)
-    - [Contribution Guide](/docs/master/contributing)
+    - [Get started](/docs/get-started)
+    - [Update](/docs/update)
+    - [Contribution Guide](/docs/contributing)
 
 - The Basics
-    - [Dashboard Guide](/docs/master/dashboard-guide)
-    - [Create Gallery Tutorial](/docs/master/create-gallery)
-    - [File manager(Elfinder)](/docs/master/elfinder)
-    - [FAQ](/docs/master/faq)
+    - [Dashboard Guide](/docs/dashboard-guide)
+    - [Create Gallery Tutorial](/docs/create-gallery)
+    - [File manager(Elfinder)](/docs/elfinder)
+    - [FAQ](/docs/faq)
 
 - Setup
-    - [Automatic Installation](/docs/master/automatic-installation)
-    - [Manual Installation](/docs/master/manual-installation)
+    - [Automatic Installation](/docs/automatic-installation)
+    - [Manual Installation](/docs/manual-installation)
 
 - CRUD
-    - [CRUD Commands](/docs/master/crud-commands)
-    - [CRUD Fields](/docs/master/crud-fields)
-    - [CRUD Custom Fields](/docs/master/crud-custom-fields)
-    - [CRUD Field Validation](/docs/master/crud-field-validation)
-    - [CRUD Events](/docs/master/crud-events)
+    - [CRUD Commands](/docs/crud-commands)
+    - [CRUD Fields](/docs/crud-fields)
+    - [CRUD Custom Fields](/docs/crud-custom-fields)
+    - [CRUD Field Validation](/docs/crud-field-validation)
+    - [CRUD Events](/docs/crud-events)
 
 - Development
-    - [Add Module to Panel](/docs/master/create-package)
-    - [Customize the Admin Template](/docs/master/customize-admin-template)
-    - [Customize Controller and View](/docs/master/customized-controller-view)
-    - [Overriding the Language Files](/docs/master/override-lang-files)
+    - [Add Module to Panel](/docs/create-package)
+    - [Customize the Admin Template](/docs/customize-admin-template)
+    - [Customize Controller and View](/docs/customized-controller-view)
+    - [Overriding the Language Files](/docs/override-lang-files)
 
 - 
