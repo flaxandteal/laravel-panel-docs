@@ -1,29 +1,29 @@
 - Prologue
-    - [Get started](/docs/get-started)
-    - [Update](/docs/update)
-    - [Contribution Guide](/docs/contributing)
+    - [Get started](/get-started)
+    - [Update](/update)
+    - [Contribution Guide](/contributing)
 
 - The Basics
-    - [Dashboard Guide](/docs/dashboard-guide)
-    - [Create Gallery Tutorial](/docs/create-gallery)
-    - [File manager(Elfinder)](/docs/elfinder)
-    - [FAQ](/docs/faq)
+    - [Dashboard Guide](/dashboard-guide)
+    - [Create Gallery Tutorial](/create-gallery)
+    - [File manager(Elfinder)](/elfinder)
+    - [FAQ](/faq)
 
 - Setup
-    - [Automatic Installation](/docs/automatic-installation)
-    - [Manual Installation](/docs/manual-installation)
+    - [Automatic Installation](/automatic-installation)
+    - [Manual Installation](/manual-installation)
 
 - CRUD
-    - [CRUD Commands](/docs/crud-commands)
-    - [CRUD Fields](/docs/crud-fields)
-    - [CRUD Custom Fields](/docs/crud-custom-fields)
-    - [CRUD Field Validation](/docs/crud-field-validation)
-    - [CRUD Events](/docs/crud-events)
+    - [CRUD Commands](/crud-commands)
+    - [CRUD Fields](/crud-fields)
+    - [CRUD Custom Fields](/crud-custom-fields)
+    - [CRUD Field Validation](/crud-field-validation)
+    - [CRUD Events](/crud-events)
 
 - Development
-    - [Add Module to Panel](/docs/create-package)
-    - [Customize the Admin Template](/docs/customize-admin-template)
-    - [Customize Controller and View](/docs/customized-controller-view)
-    - [Overriding the Language Files](/docs/override-lang-files)
+    - [Add Module to Panel](/create-package)
+    - [Customize the Admin Template](/customize-admin-template)
+    - [Customize Controller and View](/customized-controller-view)
+    - [Overriding the Language Files](/override-lang-files)
 
 - 

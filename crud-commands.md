@@ -33,4 +33,4 @@ To create the controller of an entity, you should run the following command :
 [Read from laravel document](http://laravel.com/docs/5.1/migrations) 
 
 
-[>Next (Add your fileds to crud controller you have created)](/docs/crud-fields) 
+[>Next (Add your fileds to crud controller you have created)](/crud-fields) 

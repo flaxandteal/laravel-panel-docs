@@ -8,7 +8,7 @@ List of steps we need to follow :
 
 1. [Install laravel](http://laravel.com/docs/5.1#installation)
 
-2. [install laravelPanel](/docs/automatic-installation)
+2. [install laravelPanel](/automatic-installation)
 
 3. Create the files we need
 
