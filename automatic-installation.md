@@ -49,4 +49,4 @@ For laravel 5.1 use 1.3.*
 
 
 
-[>Next (Make crud with crud commands) ](/crud-commands)
+[>Next (Make crud with crud commands) ](crud-commands)

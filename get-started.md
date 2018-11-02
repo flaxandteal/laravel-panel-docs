@@ -2,12 +2,12 @@
 
 There is few small steps to have working admin panel , that would take less than 10min .
 
-1. [Install the LaravelPanel](/automatic-installation) .
+1. [Install the LaravelPanel](automatic-installation) .
 2. login and test the LaravelPanel , you should see empty dashboard at this point.
-3. [Make crud with crud commands ](/crud-commands) .
-4. [Add your fileds to crud controller you have created](/crud-fields) .
+3. [Make crud with crud commands ](crud-commands) .
+4. [Add your fileds to crud controller you have created](crud-fields) .
 5. Test your crud controller with going to yourdomain.com/panel  
-6. [create custom contoller for other type of admin parts](/customized-controller-view) (Optional)
+6. [create custom contoller for other type of admin parts](customized-controller-view) (Optional)
 
 
 ## Panel Commands, files & namespaces
